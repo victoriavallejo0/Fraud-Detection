@@ -1,3 +1,7 @@
+---
+title: "Análisis Predictivo - Victoria Vallejo"
+author: "Victoria Vallejo"
+---
 # Análisis Predictivo - Victoria Vallejo
 Análisis de Fraude.
 
