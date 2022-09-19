@@ -8,3 +8,6 @@ https://www.kaggle.com/datasets/ealaxi/paysim1
 # PPT
 https://docs.google.com/presentation/d/1Sy0ENA_yTkpjAFq2jf0gyJn8OgvTW1P7c6R2M3q2cKc/edit?usp=sharing
 
+# Código R
+https://github.com/victoriavallejo0/PredictivaTP1/blob/main/FraudCard.R
+
