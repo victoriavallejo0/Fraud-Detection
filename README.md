@@ -1,9 +1,8 @@
 ---
-title: "Análisis Predictivo - Victoria Vallejo"
+title: "Análisis Predictivo Fraude"
 author: "Victoria Vallejo"
 ---
-# Análisis Predictivo - Victoria Vallejo
-Análisis de Fraude.
+
 
 # Base de datos
 La base contiene un conjunto de datos sintéticos generados usando el simulador PaySim. PaySim utiliza datos agregados del conjunto de datos privados para generar un conjunto de datos sintéticos que se asemeja a la operación normal de las transacciones.
